@@ -1,0 +1,158 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+/**Geral**/
+.caixa01{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    margin: 1px;
+}
+
+.caixinha01{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa02{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border:5px solid black;
+    background-color: mediumturquoise;
+    align-items: center;
+    margin: 1px;
+}
+.caixinha02{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa03{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    align-items: end;
+    margin: 1px;
+}
+.caixinha03{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa04{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    align-items: start;
+    justify-content: center;
+    margin: 1px;
+}
+.caixinha04{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa05{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    align-items: center;
+    justify-content: center;
+    margin: 1px;
+}
+.caixinha05{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa06{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    margin: 1px;
+    justify-content: center;
+    align-items: end;
+}
+.caixinha06{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa07{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    margin: 1px;
+    justify-content: end;
+    align-items: start;
+}
+.caixinha07{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa08{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    margin: 1px;
+    justify-content: end;
+    align-items: center;
+}
+.caixinha08{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
+.caixa09{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-color: mediumturquoise;
+    margin: 1px;
+    justify-content: end;
+    align-items: end;
+}
+.caixinha09{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: yellow;
+    margin: 1px;
+}
